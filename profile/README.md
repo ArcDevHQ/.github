@@ -1,4 +1,4 @@
-# 👋 Welcome to Vifez Series
+# 👋 Welcome to Arc Development
 The official GitHub organization for high quality Minecraft plugins.
 
 ## Projects
